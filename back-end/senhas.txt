@@ -1,0 +1,7 @@
+7Fo5tuLYDOvUohEn
+senha
+
+thiagoa56
+usuário
+
+mongodb+srv://thiagoa56:7Fo5tuLYDOvUohEn@spotcluster.dp0gd.mongodb.net/?retryWrites=true&w=majority&appName=spotCluster
