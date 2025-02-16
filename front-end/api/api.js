@@ -1,6 +1,5 @@
 // fetch ou axios
 // Fetch é nativo JS - já o Axios é uma biblioteca
-import "dotenv/config";
 import axios from "axios";
 
 // const { NODE_END } = process.env;
